@@ -1,0 +1,213 @@
+@font-face {
+    font-family: 'GoodCondUltra';
+    src: url(https://storytelling.blick.ch/infografik/resources/fonts/Good/GoodW05-CondBlack.eot) format('eot');
+    src: local(☺︎), url(https://storytelling.blick.ch/infografik/resources/fonts/Good/GoodW05-CondBlack.woff) format('woff');
+    src: local(☺︎), url(https://storytelling.blick.ch/infografik/resources/fonts/Good/GoodW05-CondBlack.woff2) format('woff2');
+    src: local(☺︎), url(https://storytelling.blick.ch/infografik/resources/fonts/Good/GoodW05-CondBlack.ttf) format('truetype');
+    font-display: swap;
+    font-style: normal;
+    font-weight: 800;
+    font-weight: bolder;
+    } 
+
+html, body
+{
+    //font-family: Poppins !important;
+}
+h1
+{
+    font-family: Poppins;
+    //font-family: bebas neue;
+    //font-size: 100px !important;
+    line-height: .8;
+    // -webkit-font-smoothing: antialiased;
+    // -moz-osx-font-smoothing: grayscale;
+    // @include breakpoint(min, medium) {
+    // };
+    // @include breakpoint(min, medium) {
+    //     display: block;
+    // };
+}
+
+h2 
+{
+    font-family: 'GoodCondUltra';
+    font-size: 46px !important;
+    margin-bottom: 10px !important;
+    line-height: 1;
+    border-bottom: 0 !important;
+    
+}
+
+
+.chapeau h2 {font-family: poppins;  }
+
+h3 
+{
+    font-family: Poppins;
+    
+    position: relative;
+
+    
+}
+
+
+// h3:before {
+//     content:'';
+//     position: absolute;
+//     width: 220px;
+//     height: 140px;
+//     margin: auto;
+//     z-index: -1;
+//     border: 5px solid lightgray;
+//     left:40px;
+// }
+
+
+
+h4
+{
+    font-family: Poppins;
+    
+}
+
+.tags
+{
+    font-family: Roboto Mono;
+    // -webkit-font-smoothing: antialiased;
+    // -moz-osx-font-smoothing: grayscale;
+
+    .tag
+    {
+        //font-size: 20px;
+    }
+}
+
+h5
+{
+    font-family: Poppins;
+    
+}
+
+p
+{
+    font-family: poppins; 
+    font-size: 18px;
+}
+
+p.legende
+{
+    margin-top: 0;
+    font-family: sans-serif;
+    text-align: left;
+    line-height: 1.4;
+    margin-bottom: 0;
+  }
+
+a 
+{
+    font-size: 18px;
+}
+
+blockquote
+{
+    font-family: poppins;
+    border-style: solid;
+    border-image: 
+      linear-gradient(
+        to bottom, 
+        #ff2727, 
+        #ffffff
+      ) 1 100%;
+      border-right: 0;
+}
+
+.poppins
+{
+    font-family: Poppins
+}
+
+
+.lettrine:first-letter
+{
+    
+    font-size: 570%;
+    font-weight: 600;
+    //border : 1px solid red;
+    float : left;
+    margin-top:5px;
+    line-height: 0.7;
+    margin-right: 10px;
+    
+}
+
+ul 
+{
+    font-family: Poppins;
+}
+
+.share
+{
+    font-family: poppins;
+}
+
+.chart-title
+{
+    font-family: Roboto mono;
+    text-decoration: underline;
+    //font-weight: bold;
+    color: black;
+}
+
+figcaption
+{
+    font-family: Poppins;
+}
+
+.commandements
+{
+    position: relative;
+
+    // display: flex;
+    // flex-wrap: wrap;
+    // justify-content: space-between;
+
+    // li 
+    // {
+    //     flex-basis: calc(33.33% - 30px); /* Adjust the width as needed */
+    //     margin: 15px; /* Adjust the margin as needed for spacing */
+    //     text-align: center; /* Center the content if necessary */ 
+    // }
+
+    .commandements-nbr
+    {
+        //position: absolute;
+        // height: 100%;
+        // width: 50px;
+        // //top:-20px;
+        // margin-bottom: -20px;
+        // font-family: Poppins;
+        // font-weight: bold;
+        // font-size: 75px;
+        // font-style: italic;
+        // line-height: 50px;
+        font-size: 46px;
+        text-align: center;
+        border-radius: 100px;
+        margin-right: 20px;
+        width: 60px;
+        height: 60px;
+        line-height: 60px !important;
+        display: block;
+        background: #344766;
+        color: white;
+        float:left;
+    }
+
+    .commandements-txt
+    {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+    }
+}

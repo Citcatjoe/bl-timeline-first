@@ -1,0 +1,15 @@
+{
+	"title": "Brexit: retour sur 65 ans d'histoire mouvementée",
+	"description": "Les Britanniques votent le 23 juin sur le #Brexit. Chronologie.",
+	"authors": "Coraline Kaempf",
+	"imgSocial": "social.jpg", 
+
+	"navBarStyle": "normal",
+	"navBarOffset": "0",
+	"navBarLocked": false,
+
+	"partner": {
+		"logo": "img/empty.png",
+		"link": "http://www.letemps.ch"
+	}
+}

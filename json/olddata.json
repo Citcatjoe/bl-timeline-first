@@ -1,0 +1,52 @@
+ {
+        "intro":{
+            "introPosition": "gauche",
+            "introTitle": "L'état montagnard, une histoire sympa",
+            "introDate": "1993 - 2015",
+            "introChapeau": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, totam, at! Alias doloribus itaque architecto doloremque odit mollitia voluptatibus laborum quisquam. Quas, dolore cumque odio optio itaque earum nobis voluptates."
+        },   
+        "entries":[
+            {
+            "entryId": "1",
+            "entryIcon": "globe",
+            "entryDay": "13",
+            "entryMonth": "février",
+            "entryYear": "1984",
+            "entryEffect": null,
+            "entryTitle": "Basile le pigeon ventriloque fait un tabac",
+            "entryImage": null,
+            "entryVideo": "https://www.youtube.com/embed/tXpXHoDKL64",
+            "entryText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident perspiciatis rem sunt adipisci odio, laudantium explicabo sequi deleniti velit distinctio voluptatibus doloribus temporibus voluptate optio vero libero ipsum voluptatem quidem.",
+            "entryLinkText": "Par ici la monnaie",
+            "entryLink": "http://www.nofrag.com"
+            },
+            {
+            "entryId": "2",
+            "entryIcon": "circle",
+            "entryDay": "13",
+            "entryMonth": "février",
+            "entryYear": "1984",
+            "entryEffect": "enter left",
+            "entryTitle": "Basile le pigeon ventriloque fait un tabac",
+            "entryImage": "montagne.jpg",
+            "entryVideo": null,
+            "entryText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident perspiciatis rem sunt adipisci odio, laudantium explicabo sequi deleniti velit distinctio voluptatibus doloribus temporibus voluptate optio vero libero ipsum voluptatem quidem.",
+            "entryLinkText": "Notre article sur CoinCoin",
+            "entryLink": "http://www.google.ch"
+            },
+            {
+            "entryId": "3",
+            "entryIcon": "circle",
+            "entryDay": "13",
+            "entryMonth": "février",
+            "entryYear": "1984",
+            "entryEffect": "enter left",
+            "entryTitle": "Basile le pigeon ventriloque fait un tabac",
+            "entryImage": "montagne.jpg",
+            "entryVideo": "https://www.youtube.com/embed/tXpXHoDKL64",
+            "entryText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident perspiciatis rem sunt adipisci odio, laudantium explicabo sequi deleniti velit distinctio voluptatibus doloribus temporibus voluptate optio vero libero ipsum voluptatem quidem.",
+            "entryLinkText": "Notre article sur CoinCoin",
+            "entryLink": "http://www.google.ch"
+            }
+        ]
+}

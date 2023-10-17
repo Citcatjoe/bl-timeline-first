@@ -1,0 +1,187 @@
+ {
+        "intro":{
+            "introPosition": "milieu",
+
+            "introTitle": "Le jeu du chat et de la souris",
+            "introTitleBig": "Royaume-Uni et Europe",
+
+            "introDate": null,
+            "introHr": "Yes",
+
+            "introChapeau": null,
+            "introChapeauBig": "Les Britanniques viennent de choisir l'option du Brexit. Retour sur 65 ans d'histoire mouvementée"
+        },   
+        "credits":{
+            "creditsTexte": "<b>Textes: </b>Coraline Kaempf<br><b>Photographie principale: </b>Keystone<br><b>Réalisation: </b>César Greppin"
+        }, 
+        "params":{
+            "vFactor": 0.2
+        }, 
+        "entries":[
+            {
+            "entryId": "1",
+            "entryIcon": "globe",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "1951",
+            "entryEffect": null,
+            "entryTitle": "Le Commonwealth plutôt que l'Europe",
+            "entryImage": "1_1951.jpg",
+            "entryImageLegend": "Le ministre français des affaires étrangères Robert Schuman officialise la mise en commun des ressources minières et sidérurgiques des six Etats. Le Royaume-Uni, lui, boude l'accord. Crédit photo: AFP",
+            "entryVideo": null,
+            "entryText": "<p>Après deux guerres mondiales qui ont ensanglanté le 20e siècle, la France et l’Allemagne se réconcilient. Elles veulent bâtir une communauté afin d’éviter un nouveau carnage. Avec l’Italie, la Belgique, le Luxembourg et les Pays-Bas, les deux Etats fondent les prémices de l’Union européenne. </p> <br> <p> En 1951, les six Etats ratifient le Traité de Paris. La Communauté européenne du charbon et de l’acier (CECA) voit le jour l’année suivante. En 1957, les mêmes Etats signent les Traités de Rome, mettant sur pied la Communauté économique européenne (CEE).</p> <br> <p><b>Bien qu’invité à rejoindre l’union des Six, le Royaume-Uni refuse. </b> À cette période, le nationalisme est prégnant. Le pays rejette fortement l’idée de supranationalité qui émane du projet européen. Se représentant comme l’un des principaux vainqueurs de la guerre, il se donne le rôle de «parrain bienveillant» des pays d’Europe continentale, tel que l’énonçait en 1946 Winston Churchill dans un discours à Zurich. <b> En 1951, en tant que premier ministre, il annonce sa volonté d'intensifier les relations du Royaume-Uni avec les Etats-Unis plutôt qu’avec les Européens.</b></p>",
+            "entryLinkText": "«La haute autorité du pool acier-charbon est désignée» (8 août 1952)",
+            "entryLink": "http://www.letempsarchives.ch/page/JDG_1952_08_08/8/communaute%20charbon%20acier%20ceca%20france%20italie%20allemagne"
+            },
+            {
+            "entryId": "2",
+            "entryIcon": "circle",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "1960",
+            "entryEffect": "enter left",
+            "entryTitle": "Les Britanniques créent une seconde zone européenne de libre-échange",
+            "entryImage": "2_AELE_1960.jpg",
+            "entryImageLegend": "Le 4 janvier, l'ambassadeur suisse Gottlieb Gut signe la convention de l'Association européenne de libre-échange, un projet lancé par le Royaume-Uni. Crédit photo: European Free Trade Association",
+            "entryVideo": null,
+            "entryText": "<p>La situation économique du Royaume-Uni n’est pas au beau fixe. Ses échanges commerciaux avec les Etats du Commonwealth sont en baisse. <b>Pour remédier à ces problèmes et depuis 1957, le Royaume-Uni est intéressé par la zone de libre-échange qu’institue la ratification des Traités de Rome et l’entrée à la CEE.</b> Il se refuse pourtant d’y adhérer. En cause: l’union douanière l’obligerait à taxer ses échanges commerciaux avec les Etats du Commonwealth.</p> <br> <p>A la place, le Royaume-Uni donne l’impulsion au Traité de Stockholm. <b>Il veut créer une zone de libre-échange avec d’autres pays qui, comme lui, ne souhaitent pas entrer dans la Communauté économique européenne.</b> L’Association européenne de libre-échange (AELE) voit le jour en 1960, composée de la Grande-Bretagne, de la Suisse, de la Suède, de la Norvège, du Danemark, de l’Autriche et du Portugal. Le but: favoriser les échanges marchands, sans créer de politiques communes entre les Etats.</p> <br> <p>Après quelques mois déjà, les Britanniques sont peu satisfaits des résultats. Ils ne savent pas exactement quoi attendre de l’AELE. Le projet est flou. <b>Les Etats-Unis, peu enthousiasmés par l’AELE, encouragent les Britanniques à rejoindre la CEE.</b></p>",
+            "entryLinkText": "«Oslo et Londres ont signé la convention créant l’AELE» (30 décembre 1959)",
+            "entryLink": "http://www.letempsarchives.ch/page/GDL_1959_12_30/6/aele%20stockholm"
+            },
+            {
+            "entryId": "3",
+            "entryIcon": "circle",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "1961",
+            "entryEffect": "enter left",
+            "entryTitle": "Retournement de situation: les Britanniques demandent l'adhésion à la CEE",
+            "entryImage": "3_Rome_1961.jpg",
+            "entryImageLegend": "Le premier ministre Harold Macmillan lance l'idée d'adhérer à la Communauté économique européenne. Malgré quelques désaccords, le parlement accepte le projet. Crédit photo: DR",
+            "entryVideo": null,
+            "entryText": "Une année après la création de l’AELE, le Royaume-Uni retourne sa veste. <b>Le premier ministre conservateur Harold Macmillan exprime sa volonté d’adhérer aux Traités de Rome.</b> Le parlement approuve. Une demande officielle est envoyée aux Européens en août 1961. Sous-jacents à ce changement de politique: les graves problèmes économiques du Royaume-Uni. Du côté des Six, c'est tout le contraire. Leur économie est florissante. Le premier ministre a peur d’avoir raté un train. Il craint l’exclusion économique et politique. <b>Macmillan pense qu’une entrée dans la CEE est synonyme de guérison, puisque les Six ont vu se produire une grande et rapide croissance.</b> Il rassure les Britanniques: selon lui, les relations avec les Etats du Commonwealth ne pâtiront pas suite à l’entrée du Royaume-Uni dans la CEE.",
+            "entryLinkText": "«Le Royaume-Uni demande son adhésion au marché commun» (1er août 1961)",
+            "entryLink": "http://www.letempsarchives.ch/page/GDL_1961_08_01/1/1961%20demande%20adhesion%20royaume%20uni"
+            },
+            {
+            "entryId": "4",
+            "entryIcon": "circle",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "1963",
+            "entryEffect": "enter left",
+            "entryTitle": "De Gaulle fait barrière: il ne veut pas des Britanniques dans la CEE",
+            "entryImage": "4_gaulle_macmillan_1963.jpg",
+            "entryImageLegend": "Le dialogue de sourds entre Charles de Gaulle commence dès 1963 et durera plus d'une décennie. Ici, en 1961, les deux homologues discutent devant la propriété du Britannique. Crédit photo: PNA Rota/Getty Images",
+            "entryVideo": null,
+            "entryText": "Si le Royaume-Uni a changé de position, la France aussi. Elle, qui avait auparavant les bras grands ouverts pour accueillir le Royaume-Uni dans la CEE, rend caduque cette demande d’adhésion. <b>Deux ans après que les Britanniques aient émis leur requête, le président français Charles de Gaulle met son veto durant une conférence de presse – avant même d’en faire part aux cinq autres Etats de la CEE.</b> Il déclare que l’économie du Royaume-Uni est incompatible à celle du marché commun. En pleine Guerre froide, il se méfie également des Etats-Unis qui poussent les Britanniques à adhérer à la CEE. <b>Il qualifie les Américains de «fédérateurs extérieurs» et perçoit les Britanniques comme leur cheval de Troie.</b> Le veto de Gaulle s'explique également par une remise en question, l’année précédente, des règles fondamentales de la politique agricole commune par le Royaume-Uni, qui était invité aux négociations sur les produits agricoles et a donné son avis bien tranché sur la question sans y être membre. <b>Les cinq autres Etats sont favorables à l’élargissement, mais le veto français bloque le projet</b>.",
+            "entryLinkText": "«Nouvelles divergences chez les Six» (4 juin 1963)",
+            "entryLink": "http://www.letempsarchives.ch/page/JDG_1963_06_04/1/veto%20de%20gaulle%20royaume%20uni"
+            },
+              {
+            "entryId": "5",
+            "entryIcon": "circle",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "1967",
+            "entryEffect": "enter left",
+            "entryTitle": "Et rebelote quatre ans plus tard",
+            "entryImage": "5_gaulle_1967.jpg",
+            "entryImageLegend": "Le 27 novembre, Charles de Gaulle annonce à nouveau sa décision de mettre un veto à la demande d'adhésion du Royaume-Uni. Il en explique les raisons durant une conférence de presse. Crédit photo: Rolls Press / Popperfoto / Getty Images",
+            "entryVideo": null,
+            "entryText": "Le Royaume-Uni, dont l'économie stagne, n'a pas abandonné son projet d’intégration. Du côté de l’Europe, c’est l’intégration qui est en panne. La CEE n'est composée que de six Etats – toujours le même nombre qu’à ses débuts. <b>C'est la période des Trente glorieuses: le plein-emploi et la prospérité économique fait envie aux Britanniques.</b> Le premier ministre travailliste Harold Wilson annonce une nouvelle demande d’adhésion à la Chambre des Communes en 1967. Comme quatre ans plus tôt, cinq Etats approuvent le projet. <b>Mais, à nouveau, Charles de Gaulle s’y oppose.</b> Sans tarder, il met son veto. Londres vient de dévaluer sa monnaie: pour le président français, c’est la preuve que le Royaume-Uni ne peut pas s’intégrer dans le marché commun. <b>La France quittera la Communauté si le Royaume-Uni la rejoint, annonce Charles de Gaulle.</b> La situation est à nouveau bloquée.",
+            "entryLinkText":  "«C’est l’Angleterre ou la France» (21 novembre 1967)",
+            "entryLink": "http://www.letempsarchives.ch/page/JDG_1967_11_21/1/second%20veto%20de%20gaulle%20grande%20bretagne"
+            },
+            {
+            "entryId": "6",
+            "entryIcon": "circle",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "1973", 
+            "entryEffect": "enter left",
+            "entryTitle": "Douze ans après sa première demande, le Royaume-Uni adhère à la CEE",
+            "entryImage": "6_1973_ENTRY.jpg",
+            "entryImageLegend": "Le Royaume-Uni arrive enfin à ses fins: il est membre du marché commun. Le 4 janvier 1973, des feux d'artifice explosent au-dessus de la Tamise. Crédit photo: Popperfoto / Getty Images",
+            "entryVideo": null,
+            "entryText": "<p>Charles de Gaulle démissionne en 1969. Georges Pompidou le remplace. <b>C'est la fin du dialogue de sourds entre le Royaume-Uni et la France.</b> Les négociations sont désormais envisageables. Dès juin 1970, des discussions sont ouvertes. En 1973, l’Europe passe à neuf membres: le Danemark et l’Irlande y font leur entrée en même temps que le Royaume-Uni. <b>Le peuple britannique est appelé à se prononcer, en aval, pour confirmer l’adhésion.</b> Le référendum a lieu en 1975; et même si les sondages ne prévoient pas une telle issue, 67 % des Britanniques votent pour l’adhésion.</p> <br> <p><b>Après plus d'une décennie d’attente, le Royaume-Uni intègre enfin la Communauté européenne, mais tout ne se passe pas comme les Britanniques le souhaitaient.</b> Les règles régissant la CEE ayant été établies avant leur adhésion, elles ne leur sont pas forcément favorables. De plus, deux ans après leur entrée dans le CEE, c'est le fin des Trente glorieuses. Les difficultés financières commencent à guetter les Etats de la CEE. Puis, en 1979 a lieu le premier choc pétrolier, ce qui aggrave encore leur situation économique. </p>",
+            "entryLinkText": "«M. Heath: entrer dans la CEE, c’est prendre un nouvel élan» (9 juillet 1971)",
+            "entryLink": "http://www.letempsarchives.ch/page/GDL_1971_07_09/16/adhesion%20royaume%20uni%20cee "
+            },
+            {
+            "entryId": "7",
+            "entryIcon": "circle",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "1979",
+            "entryEffect": "enter left",
+            "entryTitle": "«I want my money back»",
+            "entryImage": "7_THATCHER_1979.jpg",
+            "entryImageLegend": "Margaret Thatcher, la Dame de Fer, tient tête à ses partenaires lors du sommet européen de 1979. Selon elle, quand le Royaume-Uni donne deux livres, il n'en reçoit qu'une en retour. Crédit photo: John Downing / Getty Images",
+            "entryVideo": null,
+            "entryText": "<p> En 1979, cela fait six ans que le Royaume-Uni fait partie du marché commun. Le premier ministre Margaret Thatcher prononce son fameux «I want my money back». <b>Cette phrase dénonce la contribution trop importante du Royaume-Uni au budget européen.</b> De nombreuses tensions enveniment les relations des Etats-membres, et ce pendant cinq ans.</p> <br> <p><b>Parallèlement, les Neuf tentent de se prémunir contre l’instabilité monétaire.</b> Après de difficiles négociations, ils mettent en place en 1979 le Système monétaire européen (SME). <b>Un seul des neuf membres de la CEE refuse d’y adhérer: le Royaume-Uni.</b> La cause: une part très importante de ses échanges est effectuée avec les Etats-Unis, en dollars. Instaurer un stabilisateur de monnaie le pénaliserait.</p> <br> <p>Onze ans plus tard, en octobre 1990, les Britanniques y adhèrent finalement. Leur objectif politique est d’affaiblir la domination franco-germanique sur la CEE. Mais cette entrée au SME est un échec. Le Royaume-Uni en sort deux ans plus tard - avec l’Italie. <b>L’Europe s’enfonce dans la récession. En revanche, pour le Royaume-Uni, c’est le début de la reprise.</b></p>",
+            "entryLinkText": "«Le futur système monétaire européen ne regroupe pour l’heure que six pays» (7 décembre 1978)",
+            "entryLink": "http://www.letempsarchives.ch/page/GDL_1978_12_07/13/systeme%20monetaire%20europeen%20refus%20royaume%20uni"
+            },
+             {
+            "entryId": "8",
+            "entryIcon": "circle",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "1992",
+            "entryEffect": "enter left",
+            "entryTitle": "Non à la nouvelle monnaie",
+            "entryImage": "8_maastricht_1992.jpg",
+            "entryImageLegend": "A Maastricht, Cavaco Silva, Ruud Lubbers, Hans-Dietrich Genscher et Jacques Delors trinquent à la monnaie unique. Les Britanniques, eux, n'adopteront pas l'euro. Crédit photo: Jerry Lampan / Reuters",
+            "entryVideo": null,
+            "entryText": "<p>En 1992 est signé le Traité de Maastricht, qui a comme but de renforcer l’intégration politique et économique des Etats-membres. Il instaure des relations économiques plus solides entre eux, met en place l’Union économique et monétaire et établit les fondements de la monnaie unique. Au début des discussions, il est prévu que tous les Etats-membres adoptent l’euro, qui verra le jour en 1999 (pour les transactions financières). <b>Le Royaume-Uni ratifie le traité mais il ne souhaite pas adopter la monnaie unique (tout comme le Danemark).</b> Une option de retrait lui permet de conserver sa monnaie nationale, la livre sterling. Celle-ci est d’ailleurs solide par rapport aux autres monnaies des Etats de l'Union européenne à cette période.</p> <br> <p>Dans le traitée de Maastricht, Londres refuse également de participer au protocole social, qui unifie la politique sociale dans le champ communautaire. <b>L’Etat se montre exigeant.</b> Il demande à pouvoir sélectionner les règles de l’Union qui seront appliquées sur son territoire.</p>",
+            "entryLinkText": "«Bruxelles consterné par la décision de John Major» (6 novembre 1992)",
+            "entryLink": "http://www.letempsarchives.ch/page/JDG_1992_11_06/5/maastricht%20royaume%20uni%20refuse"
+            },
+            {
+            "entryId": "9",
+            "entryIcon": "circle",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "2011",
+            "entryEffect": "enter left",
+            "entryTitle": "Des refus à la pelle",
+            "entryImage": "9_cameron.jpg",
+            "entryImageLegend": "Le 12 décembre, David Cameron débat avec des parlementaires britanniques. Il défend fermement son veto, émis une semaine plus tôt lors d'un sommet de l'Union européenne. Crédit photo: Reuters / Parbul TV",
+            "entryVideo": null,
+            "entryText": "<p>Dès le début, c’est l’économie, et non la supranationalité, qui a poussé le Royaume-Uni à être membre de la communauté. <b>Souvent réfractaire à des politiques communes, le Royaume-Uni use à plusieurs reprises de l’option de retrait.</b> Pour arriver à ses fins, des projets peuvent échouer.</p> <br> <p>En 2011 par exemple, le Royaume-Uni est le seul des 27 Etats-membres à ne pas soutenir l’accord européen sur le renforcement de la discipline budgétaire. Le premier ministre David Cameron demande des garde-fous, que les autres Etats ne trouvent pas nécessaires. Il exige que le traité comprenne un protocole qui exonère son Etat de certaines réglementations. Le changement du traité en vigueur ne peut être modifié qu'à l’unanimité des Etats-membres. <b>Le Royaume-Uni refusant le projet, un simple accord intergouvernemental remplace les réformes envisagées.</b></p> <br> <p><b>En 2013, le Royaume-Uni menace les autres pays d’un veto sur le budget de l’Union européenne pour les années 2014-2020.</b> Comme d'autres pays, il réclame une réduction drastique du budget. Les tensions sont vives et mènent à de grands débats. Finalement, des compromis sont trouvés et David Cameron n’use pas de son veto.</p>",
+            "entryLinkText": "«Budget européen: quête d’un compromis» (6 février 2013)",
+            "entryLink": "http://www.letemps.ch/monde/2013/02/06/budget-europeen-quete-un-compromis" 
+            },
+            {
+            "entryId": "10",
+            "entryIcon": "circle",
+            "entryDay": null,
+            "entryMonth": null,
+            "entryYear": "2016",
+            "entryEffect": "enter left",
+            "entryTitle": "Le triomphe du Brexit",
+            "entryImage": "10_cameron.jpg",
+            "entryImageLegend": "Le 23 janvier 2016, les Britanniques ont choisi de quitter l'Union européenne à près de 52%",
+            "entryVideo": null,
+            "entryText": null,
+            "entryLinkText": "EN CONTINU. Triomphe du Brexit: suivez en direct ce vote historique",
+            "entryLink": "http://www.letemps.ch/"
+            },
+           	{
+            "entryId": "11",
+            "entryIcon": "circle",
+            "entryDay": "02",
+            "entryMonth": "janvier",
+            "entryYear": "2016",
+            "entryEffect": "enter left",
+            "entryTitle": "Le triomphe du Brexit",
+            "entryImage": null,
+            "entryImageLegend": "Le 23 janvier 2016, les Britanniques ont choisi de quitter l'Union européenne à près de 52%",
+            "entryVideo": "https://www.youtube.com/embed/h_f_FeVKMxU",
+            "entryText": "lorem fjlsdkfldsk dlkfjkls dfl sjdlfjsl k",
+            "entryLinkText": "EN CONTINU. Triomphe du Brexit: suivez en direct ce vote historique",
+            "entryLink": "http://www.letemps.ch/"
+            }
+        ]
+}

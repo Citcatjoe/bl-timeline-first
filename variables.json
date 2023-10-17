@@ -1,0 +1,21 @@
+{
+	"title": "J’ai testé 3 méthodes d’investissement en ligne pour débutants",
+	"titlesocial": "J’ai testé 3 méthodes d’investissement en ligne pour débutants",
+	"description": "Épargner ou investir? Quelle stratégie choisir pour faire fructifier ses économies et comment se lancer dans la jungle des investissements en tant que débutant absolu?",
+	"authors": {
+		"photos": "Application Yuh, undraw.co",
+		"videos": false,
+		"writer": "Margaux Sitavanc",
+		"dev": "César Greppin"
+	},
+	"imgSocial": "social.jpg",
+	"headertheme": "normal", 
+	"blickWhite": false,
+	"blickBlack": true,
+	"headerBoxed": false,
+	"pubDate": "2020-07-23T11:00:00+00:00",
+	"partner": {
+		"logo": "img/empty.png",
+		"link": "https://www.blick.ch/"
+	}
+}
