@@ -118,22 +118,18 @@ nav
 
 h1
 {
-  font-size:40px;
-  line-height: 45px;
-  //font-weight: lighter;
-  color: $white;
-  font-family: 'ratio_medium', 'Helvetica', 'Arial', sans-serif;
-  text-transform: uppercase;
-  margin-bottom: 15px;
-  text-shadow: rgba(0, 0, 0, 0.6) 0 1px 8px, rgba(0, 0, 0, 0.6) 0px 0px 1px;
-  //font-family: 'ratio_medium';
-//   -webkit-font-smoothing: antialiased;
-//   -moz-osx-font-smoothing: grayscale;
-
-  @include breakpoint(md) {   
-    font-size:26px;
-    line-height: 28px;  }
-
+    font-size: 55px !important;
+    line-height: 1.1;
+    font-weight: 500 !important;
+    //font-weight: lighter;
+    color: black;
+    font-family: 'Poppins'!important;
+    text-align: center;
+    @media screen and (max-width: 768px) {
+        font-size: 28px !important;
+        font-weight: 400 !important;
+        padding: 0 20px;
+    }
 
     &.big
     {
@@ -276,3 +272,8 @@ footer p
     color: white;
     font-size: 20px;
 }
+
+a{
+    font-size: inherit !important;
+}
+

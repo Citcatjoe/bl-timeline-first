@@ -2,13 +2,25 @@
 
 <!DOCTYPE HTML>
 
-<html>
+<html lang="fr">
 
 	<head>
+		<!-- OneTrust Cookies Consent Notice start for blick.ch -->
+		<!-- <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="d57e5842-f42f-46bc-a4ea-4a82bd82322c" ></script>
+		<script type="text/javascript">
+		function OptanonWrapper() { } 
+		</script> -->
+		<!-- OneTrust Cookies Consent Notice end for blick.ch --> 
 		
 		<script src="https://cdn.tailwindcss.com"></script>  
+		<link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
 		<link rel="stylesheet" type="text/css" href="css/main.css" />
 		<link rel="stylesheet" type="text/css" href="css/custom.css" />
+
+		<link rel="stylesheet" type="text/css" href="css/owl.carousel.css" />
+		<link rel="stylesheet" type="text/css" href="css/owl.theme.default.css" />
+
+		<link href="//cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.css" type="text/css" rel="stylesheet" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,12 +30,13 @@
 	</head>
 
 	<body class="bg-gray-300">
+		{{ block('gtm') }}
 		{{ block('header') }}
 		{{ block('menu_overlay') }}
 
 		
 		
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 		<script src="js/modernizr.custom.js"></script>
 		<script src="js/scrollReveal.min.js"></script>
 		<script src="js/handlebars-v4.0.4.js"></script>
@@ -41,13 +54,15 @@
 		{% endverbatim %}
 		</script>
 
+		
+
 		<script id="entry-template" type="text/x-handlebars-template">
 		{% verbatim %}
 			{{#each entries}}
 		  	<li>
 				{{#if entryYear}}
-				<time class="cbp_tmtime" datetime="2013-04-10 18:30">
-				<!-- <span>4/10/13</span> --> <span>{{#if entryDay}} {{ entryDay }} <br>{{/if}}{{#if entryMonth}} {{ entryMonth }} <br>{{/if}}{{ entryYear }}&nbsp</span>
+				<time class="cbp_tmtime text-center px-4 py-4" datetime="2013-04-10 18:30" >
+				<!-- <span>4/10/13</span> --> <span>{{#if entryDay}} {{ entryDay }} <br>{{/if}}{{#if entryMonth}} {{ entryMonth }} <br>{{/if}}{{{ entryYear }}}&nbsp</span>
 				</time>{{/if}}
 				<div class="cbp_tmicon"><i class="fa fa-{{ entryIcon }}"></i></div>
 				<div class="cbp_tmlabel" {{#if entryEffect}} data-sr='{{ entryEffect }}'{{/if}}>
@@ -79,37 +94,45 @@
 
 		
 
-		<div class="hero mt-12">
-			<div class="container">
-				<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam sapiente repudiandae accusantium veniam beatae assumenda maxime voluptate quas. Eius placeat soluta distinctio ad omnis corporis id blanditiis. Animi, quae maxime.</h1>
+		<div class="hero pt-0 md:pt-12">
+			<div class="hero-img-container w-full bg-black mb-8 md:mb-12 relative overflow-hidden">
+				<div class="absolute top-0 right-0 bottom-0 left-0 opening"></div>
+				<!-- <img src="img/this/img-opening.jpg" alt="" class="opening absolute"> -->
+				<div class="overlay-black absolute top-1/3 right-0 bottom-0 left-0"></div>
+				<div class="container hero-txt-container absolute bottom-6 md:bottom-20 left-1/2 -translate-x-1/2 max-w-4xl z-10 px-4 md:px-0">
+					<h1 class="mb-6 md:mb-8 text-white">La candidate rebelle Lynn Bertholet révèle l’intime et dure réalité des Vert-e-s</h1>
+				</div>
+			</div>
+			<div class="container max-w-4xl overflow-auto px-4 md:px-0">
+				<!-- <h1 class="mb-8">Dans les coulisses de la campagne de Lynn Bertholet, candidate trans</h1> -->
+				<p class="font-semibold text-xl md:text-2xl mt-0 md:mt-8 mb-8">
+					Lynn Bertholet rêve d’être la première élue trans au Conseil national. Messages vocaux colériques, textos analytiques: durant 436 jours, la Verte genevoise s’est confiée à Blick, sans épargner son parti. L’immersion multimédia que vous allez vivre est rarissime.
+				</p>
+				<!-- <img src="img/this/img-opening.jpg" alt="" class="w-full mt-8 mb-10"> -->
+				{{ block('authors') }}
+				
+				<p class="font-light text-xl mt-8 mb-6">
+					
+					436 jours. De l’annonce de sa candidature le 10 août 2022 à la veille des élections fédérales du 22 octobre 2023, moi, journaliste à Blick, j’ai suivi la Verte Lynn Bertholet à la trace. Principalement via WhatsApp: confidences et coups de gueule par messages vocaux — «Hello Amit, c’est Lynn» — ou textos, photos, captures d’écran, … Mais aussi en «présentiel», à vélo, à la rencontre de la population genevoise ou lors d’un débat électoral en terrain hostile.
+				</p>
+				<p class="font-light text-xl mb-6">
+					Inexpérimentée en politique mais personnalité médiatique, la Genevoise veut devenir la première femme trans conseillère nationale. Spécialiste du monde de la finance, la sexagénaire est aussi une franc-tireuse, qui ne ménage personne, et surtout pas son propre parti. «Je dis ce que je pense et je pense ce que je dis. Et si on me vire après cet article…»
+
+				</p>
+				<p class="font-light text-xl mb-10 md:mb-20">
+					Ce reportage multimédia est une plongée exceptionnelle dans les coulisses d’une campagne particulière: celle de tous les dangers. Pour les écologistes, en chute libre dans les sondages. Mais aussi pour les personnes trans, régulièrement visées par l’Union démocratique du centre (UDC), qui a fait de la lutte contre le «wokisme» une thématique nationale.
+ 
+				</p>
 			</div>
 			
 		</div>
 	
-		<!-- <div class="clearfix">
-			<div class="gradient"></div>
-			<div class="gradient2"></div>
-			<img src="img/header.jpg" alt="">
-			<div class="intro-height">
-				<div class="intro-container">
-					
-				</div>
-			</div>
-		</div> -->
 
-		<div class="container">
-			<!-- <header class="clearfix">
-				<span>Blueprint</span>
-				<h1>Vertical Timeline</h1>
-				<nav>
-					<a href="http://tympanus.net/Blueprints/ScrollingLayout/" class="icon-arrow-left" data-info="previous Blueprint">Previous Blueprint</a>
-					<a href="http://tympanus.net/codrops/?p=14941" class="icon-drop" data-info="back to the Codrops article">back to the Codrops article</a>
-				</nav>
-			</header>	 -->
+		<div class="container max-w-4xl pt-4 md:pt-10 md:pt-16 px-4 md:px-0 pb-36">
+		
 			<div class="main">
 				<ul class="cbp_tmtimeline"></ul>
-				<div class="credits">
-				</div>
+				
 			</div>
 		</div>
 
@@ -118,9 +141,17 @@
 				{{ block('credits') }}  
 			</div>
 		</footer> 
+		<!-- <script src="js/zoom.js"></script> -->
+		<script src="//cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
 
+		<script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
 		
-
 		<script src="js/header.js"></script>
 
 	</body>

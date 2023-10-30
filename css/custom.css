@@ -5,37 +5,17 @@
 	position: relative;
 } 
 
-time
-{
-	margin-top: 4px;
-	right: 870px;
-}
+
 
 li{
 	position: relative;
 }
 
-/* The date/time */
-.cbp_tmtimeline > li .cbp_tmtime {
-	display: block;
-	width: auto;
-	/* padding-right: 100px; */
-	position: absolute;
-	color: white !important;
-	font-family: Poppins;
-	font-weight: 600;
-	text-transform: uppercase;
-	font-size: 7px;
-	/* padding-top: 6px; */
-	background: #e2001a;
-	/* display: inl; */
-	border-radius: 100px;
-	padding: 2px 13px 0 13px;
-}
+
 
 .cbp_tmtimeline > li .cbp_tmtime span {
 	display: block;
-	text-align: right;
+	text-align: center;
 }
 
 .cbp_tmtimeline > li .cbp_tmtime span:first-child {
@@ -62,6 +42,7 @@ li{
 	font-weight: 300;
 	line-height: 1.4;
 	position: relative;
+	/* //overflow: hidden; */
 	/* border-radius: 5px; */
 }
 
@@ -94,30 +75,7 @@ li{
 	border-right-color: #e2001a;
 }
 
-/* The icons */
-.cbp_tmtimeline > li .cbp_tmicon {
-	width: 10px;
-	height: 10px;
-	font-family: 'ecoico';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	/* text-transform: uppercase !important; */
-	font-size: 0em;
-	line-height: 45px;
-	-webkit-font-smoothing: antialiased;
-	position: absolute;
-	color: black;
-	background: #fff;
-	background: #e2001a;
-	border-radius: 50%;
-	box-shadow: 0 0 0 5px #e2001a;
-	text-align: center;
-	left: 20%;
-	top: 0;
-	margin: 15px 0 0 0px;
-}
+
 
 /* The line */
 .cbp_tmtimeline:before {
@@ -160,18 +118,14 @@ li{
 		display: none;
 	}
 
-	.cbp_tmtimeline > li .cbp_tmtime {
-		width: 100%;
-		position: relative;
-		padding: 0 0 20px 0;
-	}
+	
 
 	.cbp_tmtimeline > li .cbp_tmtime span {
 		text-align: left;
 	}
 
 	.cbp_tmtimeline > li .cbp_tmlabel {
-		margin: 0 0 30px 0;
+		margin: 0 0 40px 0;
 		padding: 1em;
 		font-weight: 400;
 		font-size: 95%;
@@ -215,10 +169,10 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 
 .main,
 .container > header {
-  width: 95%;
+  //width: 95%;
   max-width: 69em;
   margin: 0 auto;
-  padding: 0 1.875em 3.125em;
+  /* padding: 0 1.875em 3.125em; */
 }
 
 .container > header {

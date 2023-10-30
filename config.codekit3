@@ -7,14 +7,30 @@
       "uuidString" : "B1083905-7D04-4FCE-8B58-2C35B62F4B89"
     }
   ],
-  "creatorBuild" : "34434",
+  "creatorBuild" : "34518",
   "files" : {
+    "\/audio\/audio_1.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/audio\/audio_1.mp3",
+      "oF" : 0
+    },
     "\/audio\/audio_2_corr.mp3" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/audio\/audio_2_corr.mp3",
+      "oF" : 0
+    },
+    "\/audio\/audio_2_corr.ogg" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/audio\/audio_2_corr.ogg",
       "oF" : 0
     },
     "\/audio\/audio_2.mp3" : {
@@ -87,6 +103,30 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/audio\/audio_9.mp3",
+      "oF" : 0
+    },
+    "\/audio\/merci-lynn.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/audio\/merci-lynn.mp3",
+      "oF" : 0
+    },
+    "\/audio\/merci-lynn.ogg" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/audio\/merci-lynn.ogg",
+      "oF" : 0
+    },
+    "\/audio\/old_audio_2_corr.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/audio\/old_audio_2_corr.mp3",
       "oF" : 0
     },
     "\/composer.json" : {
@@ -2833,6 +2873,30 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/css\/owl.carousel.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/owl.carousel-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/css\/owl.theme.default.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/owl.theme.default-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/css\/reset.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -2844,6 +2908,97 @@
       "oAP" : "\/css\/reset-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/favicon\/android-chrome-144x144.png" : {
+      "ft" : 32768,
+      "iS" : 3157,
+      "oA" : 0,
+      "oAP" : "\/favicon\/android-chrome-144x144.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/favicon\/apple-touch-icon.png" : {
+      "ft" : 32768,
+      "iS" : 3157,
+      "oA" : 0,
+      "oAP" : "\/favicon\/apple-touch-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/favicon\/browserconfig.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/favicon\/browserconfig.xml",
+      "oF" : 0
+    },
+    "\/favicon\/favicon-16x16.png" : {
+      "ft" : 32768,
+      "iS" : 688,
+      "oA" : 0,
+      "oAP" : "\/favicon\/favicon-16x16.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/favicon\/favicon-32x32.png" : {
+      "ft" : 32768,
+      "iS" : 971,
+      "oA" : 0,
+      "oAP" : "\/favicon\/favicon-32x32.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/favicon\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/favicon\/favicon.ico",
+      "oF" : 0
+    },
+    "\/favicon\/mstile-150x150.png" : {
+      "ft" : 32768,
+      "iS" : 3748,
+      "oA" : 0,
+      "oAP" : "\/favicon\/mstile-150x150.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/favicon\/safari-pinned-tab.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/favicon\/safari-pinned-tab.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/fonts\/ratio_bold.eot" : {
       "cB" : 0,
@@ -4280,6 +4435,136 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/this\/car_1_img_1.jpg" : {
+      "ft" : 16384,
+      "iS" : 140826,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_1_img_1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/car_1_img_2.jpg" : {
+      "ft" : 16384,
+      "iS" : 175384,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_1_img_2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/car_1_img_3.jpg" : {
+      "ft" : 16384,
+      "iS" : 252476,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_1_img_3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/car_1_img_4.jpg" : {
+      "ft" : 16384,
+      "iS" : 93168,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_1_img_4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/car_2_img_1.jpg" : {
+      "ft" : 16384,
+      "iS" : 127912,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_2_img_1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/car_2_img_2.jpg" : {
+      "ft" : 16384,
+      "iS" : 162461,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_2_img_2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/car_3_img_1.jpg" : {
+      "ft" : 16384,
+      "iS" : 75209,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_3_img_1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/car_3_img_2.jpg" : {
+      "ft" : 16384,
+      "iS" : 162901,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_3_img_2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/car_3_img_3.jpg" : {
+      "ft" : 16384,
+      "iS" : 126708,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_3_img_3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/car_3_img_4.jpg" : {
+      "ft" : 16384,
+      "iS" : 175154,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/car_3_img_4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/this\/img-assiette.png" : {
       "ft" : 32768,
       "iS" : 3065295,
@@ -4319,6 +4604,32 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/img\/this\/img-double-1-zoom.jpg" : {
+      "ft" : 16384,
+      "iS" : 244296,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-double-1-zoom.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/img-double-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 430071,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-double-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/this\/img-double-1.png" : {
       "ft" : 32768,
       "iS" : 1506871,
@@ -4330,6 +4641,19 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/img-double-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 359685,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-double-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
     "\/img\/this\/img-double-2.png" : {
@@ -4397,11 +4721,37 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/img\/this\/img-opening.jpg" : {
+      "ft" : 16384,
+      "iS" : 545616,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-opening.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/this\/img-palmares.png" : {
       "ft" : 32768,
       "iS" : 698369,
       "oA" : 0,
       "oAP" : "\/img\/this\/img-palmares.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/img-video.png" : {
+      "ft" : 32768,
+      "iS" : 373645,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-video.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -4470,6 +4820,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/lynn-cropped.png" : {
+      "ft" : 32768,
+      "iS" : 134982,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/lynn-cropped.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -4570,6 +4933,17 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/js\/owl.carousel.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/owl.carousel.min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/js\/scrollReveal.min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -4577,6 +4951,17 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/js\/scrollReveal.min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/js\/zoom.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/zoom-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -4634,7 +5019,7 @@
     },
     "\/social.jpg" : {
       "ft" : 16384,
-      "iS" : 47469,
+      "iS" : 176663,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/social.jpg",
@@ -9743,7 +10128,7 @@
     "creationDate" : 717580847.64795899,
     "displayValue" : "bl-timeline-first",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets_brown",
+    "iconImageName" : "\/favicon\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
@@ -10260,6 +10645,10 @@
         "active" : 0,
         "optionString" : "'always', {exceptAfterSingleLine: false}"
       },
+      "logical-assignment-operators" : {
+        "active" : 0,
+        "optionString" : "'always',  {'enforceForIfStatements': false}"
+      },
       "max-classes-per-file" : {
         "active" : 0,
         "optionString" : "{'ignoreExpressions': false, 'max': 1}"
@@ -10420,6 +10809,9 @@
       "no-empty-pattern" : {
         "active" : 1
       },
+      "no-empty-static-block" : {
+        "active" : 0
+      },
       "no-eq-null" : {
         "active" : 0
       },
@@ -10560,6 +10952,9 @@
       "no-new-func" : {
         "active" : 0
       },
+      "no-new-native-nonconstructor" : {
+        "active" : 0
+      },
       "no-new-object" : {
         "active" : 0
       },
@@ -10628,9 +11023,6 @@
       "no-return-assign" : {
         "active" : 0,
         "optionString" : "'except-parens'"
-      },
-      "no-return-await" : {
-        "active" : 0
       },
       "no-script-url" : {
         "active" : 0
@@ -11300,10 +11692,14 @@
       "ENVIRONMENT:::$NODE_ENV"
     ],
     "rollupTreeshakingEnabled" : 1,
+    "rollupTreeshakingModuleSideEffects" : 1,
     "skippedFoldersString" : "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
     "sourceFolderName" : "source",
     "susyVersion" : 3,
+    "tsAllowArbitraryExtensions" : 0,
+    "tsAllowImportingTSExtensions" : 0,
     "tsAllowSyntheticDefaultImports" : 0,
+    "tsAllowUMDGlobalAccess" : 0,
     "tsAllowUnreachableCode" : 0,
     "tsAllowUnusedLabels" : 0,
     "tsAlwaysStrict" : 0,
@@ -11312,36 +11708,36 @@
     "tsEmitDecoratorMetadata" : 0,
     "tsESModuleInterop" : 0,
     "tsExactOptionalPropertyTypes" : 0,
+    "tsExperimentalDecorators" : 0,
     "tsForceConsistentCasingInFileNames" : 1,
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",
-    "tsKeyofStringsOnly" : 0,
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
     "tsNoImplicitOverride" : 0,
     "tsNoImplicitReturns" : 0,
     "tsNoImplicitThis" : 0,
-    "tsNoImplicitUseStrict" : 0,
     "tsNoLib" : 0,
     "tsNoPropertyAccessFromIndexSignature" : 0,
     "tsNoResolve" : 0,
-    "tsNoStrictGenericChecks" : 0,
     "tsNoUncheckedIndexAccess" : 0,
     "tsNoUnusedLocals" : 0,
     "tsNoUnusedParameters" : 0,
     "tsPreserveConstEnums" : 0,
     "tsPreserveSymlinks" : 0,
     "tsResolveJsonModule" : 0,
+    "tsSkipDefaultLibCheck" : 0,
     "tsSkipLibCheck" : 0,
+    "tsStrictBindCallApply" : 0,
     "tsStrictFunctionTypes" : 0,
     "tsStrictNullChecks" : 0,
     "tsStrictPropertyInitialization" : 0,
     "tsStripInternal" : 0,
-    "tsSuppressExcessPropertyErrors" : 0,
-    "tsSuppressImplicitAnyIndexErrors" : 0,
+    "tsUseDefineForClassFields" : 0,
     "tsUseUnknownInCatchVariables" : 0,
+    "tsVerbatimModuleSyntax" : 0,
     "uglifyDefinesString" : "",
     "uglifyFlags2" : {
       "arguments" : {
